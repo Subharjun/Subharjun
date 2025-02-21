@@ -32,11 +32,6 @@ I'm a passionate developer focused on building AI-powered applications, mobile a
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![LeetCode](https://img.shields.io/badge/Problem%20Solving-LeetCode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
 
----
-
-## 🔥 GitHub Stats
-
-![Subharjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subharjun---&show_icons=true&theme=radical)
 
 ---
 
