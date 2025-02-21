@@ -36,7 +36,7 @@ I'm a passionate developer focused on building AI-powered applications, mobile a
 
 ## 🔥 GitHub Stats
 
-![Subharjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subharjun--&show_icons=true&theme=radical)
+![Subharjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subharjun---&show_icons=true&theme=radical)
 
 ---
 
